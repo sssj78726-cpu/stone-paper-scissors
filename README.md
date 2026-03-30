@@ -1,1 +1,1 @@
-# stone paper scissors
+its a paper stone scissors. i add lambda and one function
